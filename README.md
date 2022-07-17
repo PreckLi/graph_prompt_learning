@@ -4,7 +4,7 @@ This is the official implementation of Graph Prompt Learning
 torch==1.10.0  
 torch_geometric==2.0.0
 ## Datasets
-The node classification datasets include Cora,Citeseer,Pubmed,Computers,CS,Photo,Physics and DBLP.
+The node classification datasets include Cora,Citeseer,Pubmed,Computers,CS,Photo,Physics and DBLP.  
 The graph classification datasets include DD，PROTEINS,NCI1 and NCI109.
 Specificially,the download url of datasets can refer to https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html
 ## Code
