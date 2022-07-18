@@ -1,0 +1,4 @@
+#Run
+```
+python train.py
+```
