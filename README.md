@@ -1,5 +1,5 @@
 # Graph Prompt Learning
-Official implementation of ![**Graph structure prompt learning: A novel methodology to improve performance of graph neural networks**](https://link.springer.com/article/10.1007/s10489-025-06952-x) published by **Applied Intelligence**
+Official implementation of [**Graph structure prompt learning: A novel methodology to improve performance of graph neural networks**](https://link.springer.com/article/10.1007/s10489-025-06952-x) published by **Applied Intelligence**
 ![GPL](https://github.com/PreckLi/graph_prompt_learning/blob/main/GPL.PNG)
 ## Requirements
 - torch==1.10.0  
